@@ -1,6 +1,6 @@
 (ns input.day1)
 
-(def part1
+(def input
   [1826
    1895
    1427
